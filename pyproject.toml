@@ -7,7 +7,12 @@ authors = [
     { name = "Jan Wójcik", email = "jan.wojcik077@gmail.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "click>=8.5.1",
+    "dvc>=3.67.1",
+    "pandas>=3.1.1",
+    "pyarrow>=26.0.1",
+]
 
 [project.scripts]
 lab5 = "lab5:main"
