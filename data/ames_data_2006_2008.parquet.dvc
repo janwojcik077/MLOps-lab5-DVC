@@ -1,5 +1,5 @@
 outs:
-- md5: ebc4156e27500c8b988bdb2f1543a053
-  size: 163579
+- md5: f272faa25f658989d559f9dc5578d322
+  size: 150899
   hash: md5
   path: ames_data_2006_2008.parquet
