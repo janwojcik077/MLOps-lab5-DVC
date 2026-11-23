@@ -3,3 +3,10 @@ __pycache__/
 .pytest_cache/
 .env
 /remote_data
+.ipynb_checkpoints
+
+# MLflow
+mlflow.db
+mlflow-artifacts/
+mlflow-data/
+mlruns/
